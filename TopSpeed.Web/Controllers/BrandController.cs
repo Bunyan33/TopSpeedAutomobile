@@ -9,7 +9,7 @@ namespace TopSpeed.Web.Controllers
         private readonly ApplicationDbContext _dbContext;
         private readonly IWebHostEnvironment _webHostEnvironment;
 
-        //Vasi
+        //Vasi bro
 
         public BrandController(ApplicationDbContext dbContext, IWebHostEnvironment webHostEnvironment)
         {
